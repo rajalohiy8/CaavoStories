@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1027276945219",
+    "firebase_url": "https://caavostories.firebaseio.com",
+    "project_id": "caavostories",
+    "storage_bucket": "caavostories.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027276945219:android:ebf3f8475f6ac636",
+        "android_client_info": {
+          "package_name": "com.caavo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027276945219-1op29ivq0gokfnind7ocmfnmbgtth5vr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.caavo",
+            "certificate_hash": "967ac25554ef37b6ac24d23044da21465589e438"
+          }
+        },
+        {
+          "client_id": "1027276945219-mq32m1d2vtk03c8osjho4t8lo8aj5p40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2hUXqqOUfIDE0ySXw51t40J4lxLCOECo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027276945219-mq32m1d2vtk03c8osjho4t8lo8aj5p40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
